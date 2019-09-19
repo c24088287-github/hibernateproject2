@@ -80,4 +80,3 @@ public class EmpDetail implements Serializable {
         this.Details = Details;
     }
 }
-{}
